@@ -5,3 +5,7 @@
 [![skilled-lang](https://skillicons.dev/icons?i=c,go,java,py,js,ts,vue,react)](https://skillicons.dev)
 
 Organizer & Contributor of [GTMC](https://github.com/tanhHeng/GraduateTextsInTechnicalMC)
+
+AFOed OIer, [Repo](https://github.com/BFladderbeanawa/OI_Repo)
+
+Machine Learning, [Repo](https://github.com/BFladderbeanawa/Pic-pred)
